@@ -1,0 +1,3 @@
+Always Run in VS Code
+
+else some of the pic will not get loaded.
